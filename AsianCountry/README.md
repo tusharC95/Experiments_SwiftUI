@@ -48,8 +48,7 @@
 
 The `ContentView_Previews` struct provides a live preview of the user interface within Xcode.
 
-![Preview-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f864ac83-245f-4cbc-a569-adc8a7f9045b)
-
+<img src="https://github.com/user-attachments/assets/f864ac83-245f-4cbc-a569-adc8a7f9045b" alt="Preview-ezgif com-video-to-gif-converter" style="width:50%; height:auto;">
 
 ## 📄 License
 
