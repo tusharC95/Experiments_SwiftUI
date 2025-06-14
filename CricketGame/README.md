@@ -44,7 +44,7 @@ Each bowling performance includes:
 4. Use the checkboxes at the top to display top 3 wicket-takers and economy performers.
 
 ## 📱 Preview
-![PreviewBowling](https://github.com/user-attachments/assets/c63c39d2-23df-4aa4-a05b-e2ff8dd302b6)
+<img src="https://github.com/user-attachments/assets/c63c39d2-23df-4aa4-a05b-e2ff8dd302b6" alt="PreviewBowling" style="width:50%; height:auto;">
 
 
 ## 📄 License
